@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhaatif 
 - 👀 I’m interested in Competitive Programming and Data Science.
-- 🌱 I’m currently learning Data structures and Competitive Programming from Coding Ninjas.
-- 💞️ I’m looking to collaborate on Kaggle or CodeForces as a team Member.
+- 🌱 I’m currently learning Data structures and Competitive Programming.
+- 💞️ I’m looking to collaborate on Kaggle.
 - 📫 How to reach me ...
 
 <!---
