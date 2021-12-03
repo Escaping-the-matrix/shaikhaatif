@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaikhaatif 
+- 👋 Hi, I’m @aatif 
 - 👀 I’m interested in Competitive Programming and Data Science.
 - 🌱 I’m currently learning Data structures and Competitive Programming.
 - 💞️ I’m looking to collaborate on Kaggle.
